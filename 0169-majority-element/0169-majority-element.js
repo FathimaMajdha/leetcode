@@ -3,15 +3,15 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let freq = {};
+    let count = {};
     let majorityLimit = nums.length / 2;
 
     for (let num of nums) {
-        freq[num] = (freq[num] || 0) + 1;
-        if (freq[num] > majorityLimit) {
+        count[num] = (count[num] || 0) + 1;
+        if (count[num] > majorityLimit) {
             return num;
         }
     }
 
-    return 0; // No majority element found
+    return 0;
 };
