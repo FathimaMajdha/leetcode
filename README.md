@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FathimaMajdha/leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [2235-capitalize-the-title](https://github.com/FathimaMajdha/leetcode/tree/master/2235-capitalize-the-title) |
 <!---LeetCode Topics End-->
