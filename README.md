@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/FathimaMajdha/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/FathimaMajdha/leetcode/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/FathimaMajdha/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/FathimaMajdha/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
