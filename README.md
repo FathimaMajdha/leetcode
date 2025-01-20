@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/FathimaMajdha/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/FathimaMajdha/leetcode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/FathimaMajdha/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/FathimaMajdha/leetcode/tree/master/0342-power-of-four) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/FathimaMajdha/leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/FathimaMajdha/leetcode/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/FathimaMajdha/leetcode/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/FathimaMajdha/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
