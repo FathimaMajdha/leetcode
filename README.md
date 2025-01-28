@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/FathimaMajdha/leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/FathimaMajdha/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/FathimaMajdha/leetcode/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/FathimaMajdha/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/FathimaMajdha/leetcode/tree/master/0463-island-perimeter) |
 | [0645-set-mismatch](https://github.com/FathimaMajdha/leetcode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/FathimaMajdha/leetcode/tree/master/0948-sort-an-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/FathimaMajdha/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/FathimaMajdha/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/FathimaMajdha/leetcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/FathimaMajdha/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/FathimaMajdha/leetcode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/FathimaMajdha/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
