@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/FathimaMajdha/leetcode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/FathimaMajdha/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [3429-special-array-i](https://github.com/FathimaMajdha/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
