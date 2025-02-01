@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/FathimaMajdha/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/FathimaMajdha/leetcode/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/FathimaMajdha/leetcode/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/FathimaMajdha/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/FathimaMajdha/leetcode/tree/master/0645-set-mismatch) |
 ## Array
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/FathimaMajdha/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/FathimaMajdha/leetcode/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/FathimaMajdha/leetcode/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/FathimaMajdha/leetcode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/FathimaMajdha/leetcode/tree/master/0463-island-perimeter) |
 | [0645-set-mismatch](https://github.com/FathimaMajdha/leetcode/tree/master/0645-set-mismatch) |
