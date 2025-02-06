@@ -4,8 +4,5 @@
  * @return {string}
  */
 var addStrings = function(num1, num2) {
-    let rslt=BigInt(num1);
-    let rslt1=BigInt(num2);
-    let sum=rslt+rslt1;
-    return sum.toString();  
+    return (BigInt(num1)+BigInt(num2)).toString();  
 };
