@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/FathimaMajdha/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/FathimaMajdha/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/FathimaMajdha/leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
 | [2383-add-two-integers](https://github.com/FathimaMajdha/leetcode/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/FathimaMajdha/leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/FathimaMajdha/leetcode/tree/master/0551-student-attendance-record-i) |
 | [2235-capitalize-the-title](https://github.com/FathimaMajdha/leetcode/tree/master/2235-capitalize-the-title) |
 ## Two Pointers
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/FathimaMajdha/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
