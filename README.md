@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/FathimaMajdha/leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/FathimaMajdha/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/FathimaMajdha/leetcode/tree/master/0551-student-attendance-record-i) |
