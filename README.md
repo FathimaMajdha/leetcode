@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/FathimaMajdha/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2634-minimum-common-value](https://github.com/FathimaMajdha/leetcode/tree/master/2634-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FathimaMajdha/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FathimaMajdha/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2634-minimum-common-value](https://github.com/FathimaMajdha/leetcode/tree/master/2634-minimum-common-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/FathimaMajdha/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/FathimaMajdha/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/FathimaMajdha/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/FathimaMajdha/leetcode/tree/master/0645-set-mismatch) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FathimaMajdha/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2634-minimum-common-value](https://github.com/FathimaMajdha/leetcode/tree/master/2634-minimum-common-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/FathimaMajdha/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Divide and Conquer
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2634-minimum-common-value](https://github.com/FathimaMajdha/leetcode/tree/master/2634-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
