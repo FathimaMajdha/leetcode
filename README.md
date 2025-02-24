@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/FathimaMajdha/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/FathimaMajdha/leetcode/tree/master/0645-set-mismatch) |
+| [0782-jewels-and-stones](https://github.com/FathimaMajdha/leetcode/tree/master/0782-jewels-and-stones) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FathimaMajdha/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2634-minimum-common-value](https://github.com/FathimaMajdha/leetcode/tree/master/2634-minimum-common-value) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/FathimaMajdha/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/FathimaMajdha/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/FathimaMajdha/leetcode/tree/master/0551-student-attendance-record-i) |
+| [0782-jewels-and-stones](https://github.com/FathimaMajdha/leetcode/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FathimaMajdha/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2235-capitalize-the-title](https://github.com/FathimaMajdha/leetcode/tree/master/2235-capitalize-the-title) |
 ## Two Pointers
