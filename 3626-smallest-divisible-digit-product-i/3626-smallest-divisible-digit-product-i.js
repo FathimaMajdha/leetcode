@@ -4,7 +4,6 @@
  * @return {number}
  */
 var smallestNumber = function(n, t) {
-    // If t is 1, return n directly (as any number's digit product is divisible by 1)
     if (t === 1) return n;
 
     while (true) {
@@ -16,12 +15,8 @@ var smallestNumber = function(n, t) {
         if (digitProduct % t === 0) {
             return n;
         }
-        n++;  // Increment and check next number
+        n++; 
         
     }
 };
 
-// Test cases
-console.log(smallestNumber(2, 1)); // Expected output: 2
-console.log(smallestNumber(2, 5)); // Expected output: 5
-console.log(smallestNumber(1, 3)); // Expected output: 12
