@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/FathimaMajdha/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/FathimaMajdha/leetcode/tree/master/0782-jewels-and-stones) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FathimaMajdha/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2235-capitalize-the-title](https://github.com/FathimaMajdha/leetcode/tree/master/2235-capitalize-the-title) |
 ## Two Pointers
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/FathimaMajdha/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
