@@ -8,10 +8,10 @@ public class Solution {
             }
         }
         int[] result = new int[nums.Length];
-        int end=0;
+        int index=0;
         for (int i = 0; i <nums.Length ; i++) {
             if (nums[i] != 0) {
-                result[end++] = nums[i];
+                result[index++] = nums[i];
             }
         }
 
