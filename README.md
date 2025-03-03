@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/FathimaMajdha/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/FathimaMajdha/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
+| [1018-largest-perimeter-triangle](https://github.com/FathimaMajdha/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/FathimaMajdha/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2383-add-two-integers](https://github.com/FathimaMajdha/leetcode/tree/master/2383-add-two-integers) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/FathimaMajdha/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/FathimaMajdha/leetcode/tree/master/0463-island-perimeter) |
 | [0645-set-mismatch](https://github.com/FathimaMajdha/leetcode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/FathimaMajdha/leetcode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/FathimaMajdha/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/FathimaMajdha/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FathimaMajdha/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/FathimaMajdha/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/FathimaMajdha/leetcode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/FathimaMajdha/leetcode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/FathimaMajdha/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FathimaMajdha/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/FathimaMajdha/leetcode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
