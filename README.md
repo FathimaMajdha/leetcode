@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
 | [1018-largest-perimeter-triangle](https://github.com/FathimaMajdha/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/FathimaMajdha/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/FathimaMajdha/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2383-add-two-integers](https://github.com/FathimaMajdha/leetcode/tree/master/2383-add-two-integers) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/FathimaMajdha/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/FathimaMajdha/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
