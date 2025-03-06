@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/FathimaMajdha/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2383-add-two-integers](https://github.com/FathimaMajdha/leetcode/tree/master/2383-add-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/FathimaMajdha/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/FathimaMajdha/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/FathimaMajdha/leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/FathimaMajdha/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FathimaMajdha/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/FathimaMajdha/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/FathimaMajdha/leetcode/tree/master/2634-minimum-common-value) |
+| [3227-find-missing-and-repeated-values](https://github.com/FathimaMajdha/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/FathimaMajdha/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/FathimaMajdha/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/FathimaMajdha/leetcode/tree/master/0782-jewels-and-stones) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FathimaMajdha/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2634-minimum-common-value](https://github.com/FathimaMajdha/leetcode/tree/master/2634-minimum-common-value) |
+| [3227-find-missing-and-repeated-values](https://github.com/FathimaMajdha/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/FathimaMajdha/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Divide and Conquer
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/FathimaMajdha/leetcode/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/FathimaMajdha/leetcode/tree/master/0463-island-perimeter) |
+| [3227-find-missing-and-repeated-values](https://github.com/FathimaMajdha/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
