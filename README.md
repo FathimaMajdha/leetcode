@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FathimaMajdha/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2235-capitalize-the-title](https://github.com/FathimaMajdha/leetcode/tree/master/2235-capitalize-the-title) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/FathimaMajdha/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/FathimaMajdha/leetcode/tree/master/1018-largest-perimeter-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/FathimaMajdha/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
