@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/FathimaMajdha/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/FathimaMajdha/leetcode/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/FathimaMajdha/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/FathimaMajdha/leetcode/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/FathimaMajdha/leetcode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/FathimaMajdha/leetcode/tree/master/0463-island-perimeter) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/FathimaMajdha/leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/FathimaMajdha/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/FathimaMajdha/leetcode/tree/master/0463-island-perimeter) |
 | [3227-find-missing-and-repeated-values](https://github.com/FathimaMajdha/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
@@ -139,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/FathimaMajdha/leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/FathimaMajdha/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/FathimaMajdha/leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/FathimaMajdha/leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/FathimaMajdha/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/FathimaMajdha/leetcode/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FathimaMajdha/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/FathimaMajdha/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/FathimaMajdha/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/FathimaMajdha/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
