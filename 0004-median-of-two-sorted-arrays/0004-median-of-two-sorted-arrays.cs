@@ -3,7 +3,7 @@ using System.Linq;
 
 public class Solution {
     public double FindMedianSortedArrays(int[] nums1, int[] nums2) {
-        int[] result = nums1.Concat(nums2).OrderBy(x => x).ToArray(); // Merge and sort
+        int[] result = nums1.Concat(nums2).OrderBy(x => x).ToArray(); 
         
         int n = result.Length;
         if (n % 2 == 0) {
