@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FathimaMajdha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/FathimaMajdha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/FathimaMajdha/leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/FathimaMajdha/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/FathimaMajdha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/FathimaMajdha/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/FathimaMajdha/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/FathimaMajdha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/FathimaMajdha/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
