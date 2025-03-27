@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/FathimaMajdha/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/FathimaMajdha/leetcode/tree/master/0010-regular-expression-matching) |
 | [0326-power-of-three](https://github.com/FathimaMajdha/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/FathimaMajdha/leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/FathimaMajdha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/FathimaMajdha/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/FathimaMajdha/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/FathimaMajdha/leetcode/tree/master/0010-regular-expression-matching) |
 | [0058-length-of-last-word](https://github.com/FathimaMajdha/leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/FathimaMajdha/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FathimaMajdha/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/FathimaMajdha/leetcode/tree/master/0010-regular-expression-matching) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/FathimaMajdha/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
