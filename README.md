@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/FathimaMajdha/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/FathimaMajdha/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/FathimaMajdha/leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/FathimaMajdha/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/FathimaMajdha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/FathimaMajdha/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/0022-generate-parentheses) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/FathimaMajdha/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/FathimaMajdha/leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/FathimaMajdha/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/FathimaMajdha/leetcode/tree/master/1625-group-sold-products-by-the-date) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
