@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/FathimaMajdha/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/FathimaMajdha/leetcode/tree/master/0782-jewels-and-stones) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/FathimaMajdha/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FathimaMajdha/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FathimaMajdha/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
