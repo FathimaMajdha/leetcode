@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/FathimaMajdha/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/FathimaMajdha/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/FathimaMajdha/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/FathimaMajdha/leetcode/tree/master/0044-wildcard-matching) |
 | [0326-power-of-three](https://github.com/FathimaMajdha/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/FathimaMajdha/leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FathimaMajdha/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/FathimaMajdha/leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/FathimaMajdha/leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/FathimaMajdha/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/FathimaMajdha/leetcode/tree/master/0415-add-strings) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/FathimaMajdha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/FathimaMajdha/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/FathimaMajdha/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/FathimaMajdha/leetcode/tree/master/0044-wildcard-matching) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/FathimaMajdha/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/FathimaMajdha/leetcode/tree/master/0044-wildcard-matching) |
 | [1018-largest-perimeter-triangle](https://github.com/FathimaMajdha/leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Sliding Window
 |  |
