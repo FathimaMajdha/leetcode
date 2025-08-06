@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/FathimaMajdha/leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/FathimaMajdha/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/FathimaMajdha/leetcode/tree/master/1625-group-sold-products-by-the-date) |
+| [1827-invalid-tweets](https://github.com/FathimaMajdha/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/FathimaMajdha/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Backtracking
 |  |
