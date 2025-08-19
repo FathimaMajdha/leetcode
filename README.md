@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/FathimaMajdha/leetcode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/FathimaMajdha/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/FathimaMajdha/leetcode/tree/master/2057-count-salary-categories) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/FathimaMajdha/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/FathimaMajdha/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Backtracking
 |  |
